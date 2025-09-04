@@ -1,0 +1,38 @@
+# hackeractionturbo
+
+Este projeto reúne profissionais com experiência no mundo digital e áreas relacionadas para resolver problemas de forma colaborativa.
+
+## Como usar este repositório
+
+1. **Clone o repositório**
+   ```sh
+   git clone https://github.com/237254/hackeractionturbo.git
+   ```
+2. **Entre no diretório**
+   ```sh
+   cd hackeractionturbo
+   ```
+3. **Crie uma nova branch para suas alterações**
+   ```sh
+   git checkout -b minha-nova-feature
+   ```
+4. **Adicione e faça commit das suas mudanças**
+   ```sh
+   git add .
+   git commit -m "Descrição das alterações"
+   ```
+5. **Envie sua branch para o repositório remoto**
+   ```sh
+   git push origin minha-nova-feature
+   ```
+6. **Abra um Pull Request no GitHub**
+
+## Contribuindo
+
+- Siga as boas práticas de Git e GitHub.
+- Crie issues para discutir ideias ou problemas.
+- Faça Pull Requests claros e objetivos.
+
+## Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
